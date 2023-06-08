@@ -1,0 +1,34 @@
+body{
+    background-image: url('images.jpeg');
+    background-repeat: no-repeat;
+    background-color: cornflowerblue;
+    background-repeat: repeat;
+}
+.head{
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline double brown ;
+    cursor: alias;
+    color: black;
+}
+.a{
+font-size: medium;
+text-indent: 10px;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    color: burlywood;
+}
+.b{
+    background-color: cornflowerblue;
+    color: darkolivegreen;
+    text-indent: 10px;
+}
+.sec2{
+    background-color: black;
+    text-align: center;
+    border: rgb(235, 232, 232) 32px solid;
+    border-radius: 150px;
+}
